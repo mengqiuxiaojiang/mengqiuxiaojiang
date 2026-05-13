@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Training icon">
+  <rect x="10" y="58" width="76" height="24" rx="6" fill="#131821"/>
+  <rect x="20" y="28" width="56" height="14" rx="4" fill="#ff6a00"/>
+  <circle cx="24" cy="35" r="10" fill="#131821" stroke="#ff6a00" stroke-width="4"/>
+  <circle cx="72" cy="35" r="10" fill="#131821" stroke="#ff6a00" stroke-width="4"/>
+</svg>

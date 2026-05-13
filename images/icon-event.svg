@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Sports event icon">
+  <circle cx="48" cy="48" r="38" fill="#131821"/>
+  <circle cx="48" cy="48" r="24" fill="none" stroke="#ff6a00" stroke-width="6"/>
+  <path d="M14 48h68M48 14v68" stroke="#ff6a00" stroke-width="4" opacity="0.75"/>
+</svg>

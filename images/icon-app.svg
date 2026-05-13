@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Mobile app icon">
+  <rect x="22" y="8" width="52" height="80" rx="10" fill="#131821"/>
+  <rect x="28" y="16" width="40" height="58" rx="4" fill="#222b38"/>
+  <circle cx="48" cy="80" r="4" fill="#ff6a00"/>
+  <path d="M35 45h26M48 32v26" stroke="#ff6a00" stroke-width="4" stroke-linecap="round"/>
+</svg>
